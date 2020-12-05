@@ -18,4 +18,7 @@
  #### тест 
  - интересные факты 
  - рекорды)
+ 
+ 
+ ![картинка][logo]
 [logo]: https://github.com/EvaPolMax/Gendalf/blob/main/%D0%BF%D0%BB%D0%B0%D0%BD.bmp
